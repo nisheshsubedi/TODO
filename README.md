@@ -5,4 +5,5 @@
 
 
 ![afterloginscreen](https://user-images.githubusercontent.com/50478991/168482825-0f81449a-a162-4156-ba99-8857fe5287a8.gif)
+![deleting all tasks](https://user-images.githubusercontent.com/50478991/168482874-f2d2f203-f0b9-49b4-8f16-59abf4a33136.gif)
 
